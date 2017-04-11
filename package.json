@@ -1,0 +1,14 @@
+{
+  "name": "solar_system",
+  "version": "1.0.0",
+  "description": "3D Planet",
+  "scripts": {
+    "build": "webpack",
+    "start": "node server/server.js"
+  },
+  "dependencies": {
+    "angular": "^1.5.8",
+    "express": "^4.14.0",
+    "webpack": "^1.13.2"
+  }
+}
